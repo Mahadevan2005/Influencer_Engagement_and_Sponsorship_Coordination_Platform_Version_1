@@ -25,12 +25,8 @@ A web application that enables sponsors to create and manage campaigns, and allo
 ```bash
 git clone https://github.com/Mahadevan2005/Influencer_Engagement_and_Sponsorship_Coordination_Platform_Version_1.git
 ```
-### 2. Change the working directory
-```bash
-cd NoctiWave
-```
 
-### 3. Create & Activate Virtual Environment
+### 2. Create & Activate Virtual Environment
 - #### Create Virtual Environment
   
 ```bash
@@ -48,12 +44,12 @@ For Windows:
 venv\\Scripts\\activate
 ```
 
-### 4. Install Required Package Dependencies
+### 3. Install Required Package Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 5. Run the App
+### 4. Run the App
 ```bash
 python run.py
 ```
@@ -61,7 +57,11 @@ python run.py
 <hr>
 
 ## 📸 Screenshots
-
+![Home Page](https://github.com/user-attachments/assets/89fc3dfc-155d-4818-8c1d-1423db627f07)
+![Influencer Dashboard](https://github.com/user-attachments/assets/9b82acb0-4f8d-4640-86d8-4ff524b32510)
+![App Stats](https://github.com/user-attachments/assets/615f0a6c-7088-4d94-aca8-2d8d915d143d)
+![Admin Dashboard](https://github.com/user-attachments/assets/731eeece-2f9f-41d6-9773-57946cf7730e)
+![Campaign CRUD](https://github.com/user-attachments/assets/8d8ce23d-ca86-4315-9a97-bfc29adfddc1)
 
 
 <hr>
