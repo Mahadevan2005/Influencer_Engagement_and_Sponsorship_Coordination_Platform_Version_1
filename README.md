@@ -23,7 +23,7 @@ A web application that enables sponsors to create and manage campaigns, and allo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Yadav-Aayansh/NoctiWave.git
+git clone https://github.com/Mahadevan2005/Influencer_Engagement_and_Sponsorship_Coordination_Platform_Version_1.git
 ```
 ### 2. Change the working directory
 ```bash
