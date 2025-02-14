@@ -28,6 +28,11 @@ def calculate_campaign_progress(start_date, end_date):
         progress = 0
     return round(progress,2)
 
+# for monitoring app to make it stay active
+@app.route("/health")
+def health():
+    return "OK", 200
+
 # #ACTIVE AD REQEUSTS 
 # def get_active_ad_requests(influencer_id):
 #     current_date = date.today()
